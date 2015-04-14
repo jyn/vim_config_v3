@@ -31,6 +31,10 @@ Plugin 'Townk/vim-autoclose'
 Plugin 'scrooloose/nerdcommenter'
 Plugin 'scrooloose/syntastic'
 Plugin 'bling/vim-airline'
+Plugin 'jyn/snipmate-snippets'
+Plugin 'godlygeek/tabular'
+Plugin 'vim-scripts/closetag.vim'
+Plugin 'edsono/vim-matchit'
 
 " Git
 Plugin 'tpope/vim-fugitive'

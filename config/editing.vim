@@ -45,6 +45,8 @@ set textwidth=80 " 80-character lines maximum
 "     instead (if possible).
 set formatoptions=tcrqn21
 
+map <F7> mzgg=G`z<CR>
+
 " Automatically restore cursor position when possible
 autocmd BufReadPost *
    \ if line("'\"") > 1 && line("'\"") <= line("$") |

@@ -26,4 +26,5 @@ if has("gui_running")
    " set background=light
    " colorscheme solarized
    " colorscheme railscasts2
+
 endif

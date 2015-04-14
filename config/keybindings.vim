@@ -5,7 +5,7 @@
 """"""""""""""""""""""""""""""""""""""""
 
 function RefreshCTagsAndCmdT()
-  :CommandTFlush
+  " :CommandTFlush
   :!ctags -R .
 endfunction
 
