@@ -120,3 +120,10 @@ colorscheme distinguished
 
 " load everything else in its own config file
 runtime! config/**/*
+
+
+:set tabstop=4 
+:set softtabstop=0 
+:set expandtab 
+:set shiftwidth=4
+
